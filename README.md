@@ -3,4 +3,4 @@
 
 - 💬 Ask me about **Php, JS, SQL, Bash, DevOps**
 
-- 📫 How to reach me **info&#64;manugallego.es**
+- 📫 How to reach me **info[&#64;]manugallego.es**
